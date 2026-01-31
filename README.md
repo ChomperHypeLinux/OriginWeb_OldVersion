@@ -213,8 +213,11 @@ Trích xuất & archive: mikuphan
 Откройте напрямую в браузере:
 
 V1.2 (V1.2.50): https://chomperhypelinux.github.io/OriginWeb_OldVersion/Ver1.2.5/
+
 V1.2 (V1.2.70): https://chomperhypelinux.github.io/OriginWeb_OldVersion/Ver1.2/
+
 V1.3: https://chomperhypelinux.github.io/OriginWeb_OldVersion/Ver1.3/
+
 V1.4: https://chomperhypelinux.github.io/OriginWeb_OldVersion/Ver1.4/
 
 Дополнительная установка не требуется.
