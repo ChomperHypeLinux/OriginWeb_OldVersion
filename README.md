@@ -55,8 +55,11 @@ Works better on low-end devices
 Open directly in your browser:
 
 V1.2 (V1.2.50): https://chomperhypelinux.github.io/OriginWeb_OldVersion/Ver1.2.5/
+
 V1.2 (V1.2.70): https://chomperhypelinux.github.io/OriginWeb_OldVersion/Ver1.2/
+
 V1.3: https://chomperhypelinux.github.io/OriginWeb_OldVersion/Ver1.3/
+
 V1.4: https://chomperhypelinux.github.io/OriginWeb_OldVersion/Ver1.4/
 
 
@@ -136,14 +139,13 @@ Phù hợp máy yếu hoặc trải nghiệm hoài niệm
 
 Mở trực tiếp bằng trình duyệt:
 
-Ver 1.4
-https://mikuphan.github.io/OriginWeb_Legacy/Ver1.4
+V1.2 (V1.2.50): https://chomperhypelinux.github.io/OriginWeb_OldVersion/Ver1.2.5/
 
-Ver 1.3
-https://mikuphan.github.io/OriginWeb_Legacy/Ver1.3
+V1.2 (V1.2.70): https://chomperhypelinux.github.io/OriginWeb_OldVersion/Ver1.2/
 
-Ver 1.2.x
-https://mikuphan.github.io/OriginWeb_Legacy/Ver1.2
+V1.3: https://chomperhypelinux.github.io/OriginWeb_OldVersion/Ver1.3/
+
+V1.4: https://chomperhypelinux.github.io/OriginWeb_OldVersion/Ver1.4/
 
 
 Không cần cài đặt gì thêm.
