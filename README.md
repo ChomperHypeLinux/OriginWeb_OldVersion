@@ -2,7 +2,7 @@
 OriginWEB Legacy (Archived Versions)
 
 > Original project: OriginOS WEB by Quandz24
-Project: Made by TuxGuy:)
+  Project: Made by TuxGuy:)
 
 
 
@@ -55,6 +55,8 @@ Works better on low-end devices
 Open directly in your browser:
 
 V1.2 (V1.2.50): https://chomperhypelinux.github.io/OriginWeb_OldVersion/Ver1.2.5/
+
+V1.2 (V1.2.60) : https://chomperhypelinux.github.io/OriginWeb_OldVersion/Ver1.2.6/
 
 V1.2 (V1.2.70): https://chomperhypelinux.github.io/OriginWeb_OldVersion/Ver1.2/
 
@@ -141,6 +143,8 @@ Mở trực tiếp bằng trình duyệt:
 
 V1.2 (V1.2.50): https://chomperhypelinux.github.io/OriginWeb_OldVersion/Ver1.2.5/
 
+V1.2 (V1.2.60) : https://chomperhypelinux.github.io/OriginWeb_OldVersion/Ver1.2.6/
+
 V1.2 (V1.2.70): https://chomperhypelinux.github.io/OriginWeb_OldVersion/Ver1.2/
 
 V1.3: https://chomperhypelinux.github.io/OriginWeb_OldVersion/Ver1.3/
@@ -215,6 +219,8 @@ Trích xuất & archive: mikuphan
 Откройте напрямую в браузере:
 
 V1.2 (V1.2.50): https://chomperhypelinux.github.io/OriginWeb_OldVersion/Ver1.2.5/
+
+V1.2 (V1.2.60) : https://chomperhypelinux.github.io/OriginWeb_OldVersion/Ver1.2.6/
 
 V1.2 (V1.2.70): https://chomperhypelinux.github.io/OriginWeb_OldVersion/Ver1.2/
 
